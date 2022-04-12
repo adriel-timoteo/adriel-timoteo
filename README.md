@@ -14,7 +14,7 @@ My journey in web development started in High School. Now, I have made both the 
 ## Find me on social media 📱
 - 💼 [LinkedIn](https://www.linkedin.com/in/adrieltimoteo/)
 - 📷 [Instagram](https://www.instagram.com/adriel_timoteo/)
-- 📧 [adriel.timoteo@gmail.com](mailto:adriel.timoteo)
+- 📧 [adriel.timoteo@gmail.com](mailto:adriel.timoteo@gmail.com)
 
 <!---
 adriel-timoteo/adriel-timoteo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
